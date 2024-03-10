@@ -1,0 +1,25 @@
+# Express Project with Pug Template Engine
+
+This project uses Express.js as the server framework and Pug as the template engine.
+
+## Why Pug?
+
+Pug was chosen for its simplicity and readability. Its indentation-based syntax reduces the verbosity of HTML, making the code cleaner and more maintainable.
+Pug allows for dynamic content generation and control structures such as conditionals and loops directly within the template. This makes it easier to generate complex HTML structures dynamically without mixing logic into the presentation layer.
+
+## Requirements
+
+- install Nodejs
+- install express
+- install pug
+
+## Installation
+
+1. Clone the repository:
+   https://github.com/prabha2612/Node_assign4.git
+
+2. Navigate to the project directory:
+   cd Assign4
+
+3. Install dependencies:
+   npm install
